@@ -2,7 +2,8 @@ Hola 👋 ¡Soy Ernes Llanos!
 
 soy un Analista Funcional, Analista de datos, con experiencia en automatización que disfruta programar y aprender constantemente
 
-Sobre mi carrera
+Sobre mi carrera 
+
 Profesional con 7 años de trayectoria en gestión de procesos tecnológicos, análisis de datos y automatización. Mi experiencia en diversos sectores y países (Perú, Chile, España) me ha permitido consolidar un conocimiento práctico y muy versátil. Mi compromiso es diseñar e implementar soluciones que aporten valor real y positivo a la empresa. Lideró la adopción y el desarrollo de metodologías ágiles en equipos de desarrollo optimizando su rendimiento y los resultados de la organización.
 
 ## 🛠️ Tecnologías y Herramientas
